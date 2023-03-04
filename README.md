@@ -8,7 +8,7 @@ For building and running the application you need:
 
 - [JDK 11]
 - [Maven 3]
--[Springboot 2.7.9]
+- [Springboot 2.7.9]
 
 ## Running the application locally
 
@@ -24,13 +24,15 @@ Test the /weather/{latitude}/{longitude} GET Request and Download the XML File
   
   DB Connection Data:
   
-  server - weather.mssql.somee.com
-  user   - weatherapp
-  pwd    - 12345678
+  - [server] weather.mssql.somee.com
+  - [user] weatherapp
+  - [pwd] 12345678
 
 
 ##Evidence
 
   I attach a link for download the Video Test
+  
+  https://we.tl/t-X6IXej5RZm
   
   
