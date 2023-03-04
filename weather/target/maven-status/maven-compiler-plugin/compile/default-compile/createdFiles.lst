@@ -1,0 +1,11 @@
+com\enoc\weather\repository\MasterRepository.class
+com\enoc\weather\entities\Master.class
+com\enoc\weather\controller\MasterList.class
+com\enoc\weather\entities\Currentweather.class
+com\enoc\weather\controller\WeatherRestController.class
+com\enoc\weather\entities\Detail.class
+com\enoc\weather\WeatherApplication.class
+com\enoc\weather\entities\Meteo.class
+com\enoc\weather\controller\DetailList.class
+com\enoc\weather\repository\DetailRepository.class
+.netbeans_automatic_build
